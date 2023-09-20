@@ -26,10 +26,10 @@
     The Voting Classifier, which combines the strengths of multiple classifiers, emerged as the top performer with an accuracy of 84.65%. This reinforces the concept that ensemble methods can often enhance classification results.
   
   • Decision Trees
-    Both Decision Tree classifiers, one using Entropy and the other Gini criterion, showcased solid performance, with accuracies of approximately 84.60% and 84.55%, respectively. This indicates their competence in capturing complex decision boundaries.
+    Both Decision Tree classifiers, one using Entropy and the other Gini criterion, showcased solid performance, with accuracies of approximately 84.60% and 84.55% respectively. This indicates their competence in capturing complex decision boundaries.
 
   • Random Forest
     The Random Forest Classifier achieved an accuracy of 83.85%, providing robust results. While slightly below individual Decision Trees, it demonstrated consistent performance.
 
   • Logistic Regression and SVM 
-    Logistic Regression and Support Vector Machine (SVM) classifiers both delivered competitive results, with accuracies of approximately 82.45% and 82.50%, respectively. They proved to be reliable options for multi-class classification tasks.
+    Logistic Regression and Support Vector Machine (SVM) classifiers both delivered competitive results, with accuracies of approximately 82.45% and 82.50% respectively. They proved to be reliable options for multi-class classification tasks.
